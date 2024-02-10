@@ -1,15 +1,31 @@
 # Welcome to My GitHub! 🚀
 
 ## About Me
-I'm Tahrim Bilal, a student persuing Computer Science at UBIT. Iam passionate about Full Stack Development. I enjoy exploring the realms of Web Development. Iam currently learning React.js.
-Iam also quite curious about the ML/AI so i've been studying it too
+# Hey there! 👋 I'm Tahrim Bilal, a Computer Science student at UBIT.
+
+💻 Passionate about Full Stack Development, I'm on a journey through the enchanting realms of Web Development. Currently mastering the art of React.js and unlocking the mysteries of the ML/AI universe. ✨
+.
 
 ## Skills
-- Programming Languages: [python, C++, JS]
-- Web Development: [HTML, CSS, JavaScript]
-- Machine Learning: [pandas, numpy, scikit-learn]
-- Relational Database: [SQL]
-- Data Structures
+- **Programming Languages:**
+  - Python
+  - C++
+  - JavaScript
+
+- **Frontend Development technologies:**
+  - HTML
+  - CSS
+  - JavaScript
+
+- **Machine Learning Libraries:**
+  - pandas
+  - numpy
+  - scikit-learn
+
+- **Relational Database:**
+  - SQL
+
+- **Data Structures**
   
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tarim-bilal-b992422b3)
