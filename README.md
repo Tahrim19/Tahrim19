@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Welcome to My GitHub! 🚀
+
+## About Me
+I'm Tahrim Bilal, a UBIT student passionate about Full Stack Development. I enjoy exploring the realms of Web Development. Iam currently learning React.js.
+Iam also quite curious about the ML/AI so i've been studying it too
+
+## Skills
+- Programming Languages: [python, C++, JS]
+- Web Development: [HTML, CSS, JavaScript]
+- Machine Learning: [pandas, numpy, scikit-learn]
+- Relational Database: [SQL]
+- Data Structures
+  
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/tarim-bilal-b992422b3)
+
+
+Feel free to explore my repositories and connect with me!
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)](https://github.com/your-username)
