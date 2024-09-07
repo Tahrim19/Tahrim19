@@ -1,4 +1,4 @@
-# Hey! 👋 I'm Tahrim Bilal, a Computer Science student at UBIT! 🌻
+# Hey! 👋 I'm Tahrim Bilal, currently pursuing a Bachelor’s in Computer Science.🌻
 
 ## About Me
 💻 Passionate about Full Stack Development, I'm on a journey through the enchanting realms of Web Development. Currently mastering the art of React.js and unlocking the mysteries of the ML/AI universe. ✨
