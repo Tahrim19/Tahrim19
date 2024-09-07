@@ -39,6 +39,6 @@ Let's code, learn DSA together, and maybe share some anime recommendations! 🌟
 | **Others**                 | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> |
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/tarim-bilal-b992422b3)
+- [LinkedIn](www.linkedin.com/in/tahrim-bilal)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahrim19&show_icons=true&locale=en&layout=compact" alt="tahrim19" /></p>
