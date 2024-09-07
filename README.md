@@ -1,34 +1,23 @@
 # Hey! 👋 I'm Tahrim Bilal, a Computer Science student at UBIT! 🌻
 
 ## About Me
-💻 Passionate about Full Stack Development, I'm on a journey through the enchanting realms of Web Development. Currently mastering the art of React.js and beginning to explore the world of Data Structures and Algorithms (DSA) through LeetCode. ✨<br>
-While I'm just starting with LeetCode, I'm excited to take on new challenges and grow my problem-solving skills. It's all about the journey, right?<br>
-When I'm not crafting code, catch me exploring captivating anime worlds or diving into thought-provoking articles. 📚 I also take on the badminton court with my racket and shuttlecock – a work in progress, but hey, I'm swinging for the stars! 🏸
+💻 Passionate about Full Stack Development, I'm on a journey through the enchanting realms of Web Development. Currently mastering the art of React.js and unlocking the mysteries of the ML/AI universe. ✨
+
+While I'm just beginning to explore the world of Data Structures and Algorithms (DSA) through LeetCode, I'm excited to take on new challenges and grow my problem-solving skills. It's all about the journey, right? 🌱
+
+When I'm not crafting code, catch me exploring captivating anime worlds or diving into thought-provoking articles. 📚 I also take on the badminton court with my racket and shuttlecock – a work in progress, but hey, I'm swinging for the stars! 🏸 
 
 Let's code, learn DSA together, and maybe share some anime recommendations! 🌟
 
 ## Tech Stack
 - **Programming Languages:**
-  - Python
-  - C++
-  - JavaScript
+  <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- **Frontend Development Technologies:**
-  - HTML
-  - CSS
-  - JavaScript
-  - ReactJS
+- **Frontend Technologies:**
+  <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-- **Machine Learning Libraries:**
-  - pandas
-  - numpy
-  - scikit-learn
-
-- **Databases:**
-  - SQL
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahrim19&show_icons=true&locale=en&layout=compact" alt="tahrim19" /></p>
+- **Backend Techologies:**
+  <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
   
 ## Connect with Me
