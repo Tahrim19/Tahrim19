@@ -1,13 +1,21 @@
 # Hey! 👋 I'm Tahrim Bilal, currently pursuing a Bachelor’s in Computer Science.🌻
 
-## About Me
+<!-- ## About Me
 💻 Passionate about Full Stack Development, I'm on a journey through the enchanting realms of Web Development. Currently mastering the art of React.js and unlocking the mysteries of the ML/AI universe. ✨
 
 While I'm just beginning to explore the world of Data Structures and Algorithms (DSA) through LeetCode, I'm excited to take on new challenges and grow my problem-solving skills. It's all about the journey, right? 🌱
 
 When I'm not crafting code, catch me exploring captivating anime worlds or diving into thought-provoking articles. 📚 I also take on the badminton court with my racket and shuttlecock – a work in progress, but hey, I'm swinging for the stars! 🏸 
 
-Let's code, learn DSA together, and maybe share some anime recommendations! 🌟
+Let's code, learn DSA together, and maybe share some anime recommendations! 🌟 -->
+## About Me
+💻 Full Stack Developer in the making, currently mastering React.js and dabbling in the wonders of ML/AI. ✨
+
+Just starting my DSA journey on LeetCode, ready to level up my problem-solving skills. 🌱
+
+Off the keyboard, I'm diving into anime worlds, thought-provoking reads, and improving my badminton game (still aiming for the stars!). 🏸
+
+Let's code, learn DSA, and trade anime recs! 🌟
 
 <!-- ## Tech Stack
 - **Programming Languages:**
