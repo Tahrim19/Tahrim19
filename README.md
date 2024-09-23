@@ -18,7 +18,7 @@ Off the keyboard, I'm diving into anime worlds, thought-provoking reads, and imp
 Let's code, learn DSA, and trade anime recs! 🌟
 
 ## Connect with Me
-- [LinkedIn](www.linkedin.com/in/tahrim-bilal)
+- [LinkedIn](https://www.linkedin.com/in/tahrim-bilal/)
 - [View my Blog](https://medium.com/@tarimbilal4)
 
 <!-- ## Tech Stack
