@@ -19,8 +19,7 @@ Let's code, learn DSA, and trade anime recs! 🌟
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tahrim-bilal/)
-- [View my Blog](https://medium.com/@tarimbilal4)
-- 
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
