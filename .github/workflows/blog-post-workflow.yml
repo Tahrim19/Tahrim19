@@ -14,7 +14,7 @@ jobs:
               run: |
                 curl -s "https://medium.com/feed/@tarimbilal4"  # Fetch the feed to check its content
             - name: Pull in latest blog posts
-              uses: gautamkrishnar/blog-post-workflow@v1.0.0  # Replace with the latest stable version
+              uses: gautamkrishnar/blog-post-workflow@master  # Replace with the latest stable version
               with: 
                 max_post_count: "4"
                 feed_list: "https://medium.com/feed/@tarimbilal4"
