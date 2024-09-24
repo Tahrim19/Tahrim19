@@ -1,15 +1,20 @@
 name: Latest blog post workflow
 on: 
     schedule:
-        - cron: '0 * * * *'
+        - cron: '0 * * * *'  # Runs every hour
     workflow_dispatch:
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
+            - name: Checkout code
+              uses: actions/checkout@v2
+            - name: Check RSS Feed
+              run: |
+                curl -s "https://medium.com/feed/@tarimbilal4"  # Fetch the feed to check its content
+            - name: Pull in latest blog posts
+              uses: gautamkrishnar/blog-post-workflow@v1.0.0  # Replace with the latest stable version
               with: 
                 max_post_count: "4"
                 feed_list: "https://medium.com/feed/@tarimbilal4"
