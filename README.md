@@ -20,6 +20,9 @@ Let's code, learn DSA, and trade anime recs! 🌟
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tahrim-bilal/)
 - [View my Blog](https://medium.com/@tarimbilal4)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- ## Tech Stack
 - **Programming Languages:**
@@ -50,5 +53,8 @@ Let's code, learn DSA, and trade anime recs! 🌟
 | **Database**               | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  |
 | **Others**                 | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> |
 
-## Most Used Languages
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahrim19&show_icons=true&locale=en&layout=compact" alt="tahrim19" /></p>
+## Statistics
+<p >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahrim19&show_icons=true&locale=en&layout=compact" alt="tahrim19" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahrim19&" alt="tahrim19" />
+</p>
