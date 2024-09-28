@@ -1,4 +1,4 @@
-# Hey! 👋 I'm Tahrim Bilal, currently pursuing a Bachelor’s in Computer Science.🌻
+# Hey! 👋 I'm Tahrim Bilal, currently pursuing a Bachelor’s in Computer Science.🌻 
 
 <!-- ## About Me
 💻 Passionate about Full Stack Development, I'm on a journey through the enchanting realms of Web Development. Currently mastering the art of React.js and unlocking the mysteries of the ML/AI universe. ✨
@@ -16,6 +16,7 @@ Just starting my DSA journey on LeetCode, ready to level up my problem-solving s
 Off the keyboard, I'm diving into anime worlds, thought-provoking reads, and improving my badminton game (still aiming for the stars!). 🏸
 
 Let's code, learn DSA, and trade anime recs! 🌟
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahrim19&label=Visitor%20Count&color=ff6ba6&style=plastic" alt="tahrim19" /> </p>
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tahrim-bilal/)
