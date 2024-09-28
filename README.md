@@ -23,7 +23,7 @@ Let's code, learn DSA, and trade anime recs! 🌟
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<p align="left"> Follow me on Medium! 
+<p align="left">
 <a href="https://medium.com/@tarimbilal4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tarimbilal4" height="30" width="40" /></a>
 
 ## Tech Stack
