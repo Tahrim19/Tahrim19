@@ -19,7 +19,7 @@ Let's code, learn DSA, and trade anime recs! 🌟
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahrim19&label=Visitor%20Count&color=ff6ba6&style=plastic" alt="tahrim19" /> </p>
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/tahrim-bilal/)
+- [LinkedIn.](https://www.linkedin.com/in/tahrim-bilal/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
